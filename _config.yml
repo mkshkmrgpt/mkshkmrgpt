@@ -9,11 +9,11 @@ lang:                  en
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages.
-url:                   https://domain.tld
+url:                   https://mkshkmrgpt.github.io
 
 # Set to '' when hosting on GitHub Pages, like `//<username>.github.io`.
 # Set to '/<reponame>' when using the `gh-pages` branch of a repository.
-baseurl:               /hydejack
+baseurl:               /mkshkmrgpt.github.io
 
 # A short description of the page used for the meta description tag.
 description:           >
@@ -35,11 +35,11 @@ logo:                  /assets/icons/icon.png
 # This should be the same author as first entry in `_data/authors.yml`.
 # Duplication is necessary due to the jekyll-feed plugin.
 author:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                Mukesh kumar Gupta
+  email:               mkshkmrgpt@gmail.com
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 20XX. Open _config.yml to edit this text.
+copyright:             © 2017. Mukesh kumar Gupta.
 
 # Format of the permalinks
 permalink:             pretty
@@ -195,11 +195,11 @@ plugins:
 #   admins:              <id>
 
 # Used on index and about sites
-# social:
-#   name:                <firstname> <lastname>
-#   links:
-#     - https://twitter.com/<username>
-#     - https://github.com/<username>
+ social:
+   name:                Mukesh kumar Gupta
+   links:
+     - https://twitter.com/mkshkmrgpt
+     - https://github.com/mkshkmrgpt
 
 
 # Other Plugins
