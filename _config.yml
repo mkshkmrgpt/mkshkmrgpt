@@ -35,11 +35,11 @@ logo:                  /assets/icons/icon.png
 # This should be the same author as first entry in `_data/authors.yml`.
 # Duplication is necessary due to the jekyll-feed plugin.
 author:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                Mukesh kumar Gupta
+  email:               mkshkmrgpt@gmail.com
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 20XX. Open _config.yml to edit this text.
+copyright:             © 2017. Mukesh kumar Gupta
 
 # Format of the permalinks
 permalink:             pretty
@@ -185,8 +185,8 @@ plugins:
 #   yandex:              <verification-id>
 
 # Used for Twitter cards
-# twitter:
-#   username:            <shortname>
+twitter:
+   username:            mkshkmrgpt
 
 # Used for Facebook open graph
 # facebook:
