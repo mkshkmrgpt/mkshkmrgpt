@@ -1,21 +1,19 @@
 # Config
 # ========================================================================================
 
-
 title:                 Hydejack
-
 
 # Language of your content in 2-letter code, eg: en, de.
 # You may also provide a location, eg: en-us, de_AT.
-lang: en
+lang:                  en
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages.
-url: https://mkshkmrgpt.github.io
+url:                   https://domain.tld
 
 # Set to '' when hosting on GitHub Pages, like `//<username>.github.io`.
 # Set to '/<reponame>' when using the `gh-pages` branch of a repository.
-baseurl: /mkshkmrgpt.github.io
+baseurl:               /hydejack
 
 # A short description of the page used for the meta description tag.
 description:           >
@@ -38,11 +36,11 @@ logo:                  /assets/icons/icon.png
 # This should be the same author as first entry in `_data/authors.yml`.
 # Duplication is necessary due to the jekyll-feed plugin.
 author:
-  name:                Mukesh kumar Gupta
-  email:               mkshkmrgpt@gmail.com
+  name:                <firstname> <lastname>
+  email:               <mail@domain.tld>
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2017. Mukesh kumar Gupta.
+copyright:             © 20XX. Open _config.yml to edit this text.
 
 # Format of the permalinks
 permalink:             pretty
@@ -198,11 +196,11 @@ plugins:
 #   admins:              <id>
 
 # Used on index and about sites
- social:
-   name:                Mukesh kumar Gupta
-   links:
-     - https://twitter.com/mkshkmrgpt
-     - https://github.com/mkshkmrgpt
+# social:
+#   name:                <firstname> <lastname>
+#   links:
+#     - https://twitter.com/<username>
+#     - https://github.com/<username>
 
 
 # Other Plugins
@@ -242,5 +240,3 @@ sass:
 # so that the location of the feed XML stays the same.
 # feed:
 #   path:                atom.xml
-
-theme: jekyll-theme-dinky
