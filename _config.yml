@@ -1,19 +1,19 @@
 # Config
 # ========================================================================================
 
-title:                 Mukesh kumar Gupta
+title: Mukesh kumar Gupta
 
 # Language of your content in 2-letter code, eg: en, de.
 # You may also provide a location, eg: en-us, de_AT.
-lang:                  en
+lang: en
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages.
-url:                   https://mkshkmrgpt.github.io
+url: https://mkshkmrgpt.github.io
 
 # Set to '' when hosting on GitHub Pages, like `//<username>.github.io`.
 # Set to '/<reponame>' when using the `gh-pages` branch of a repository.
-baseurl:               /mkshkmrgpt.github.io
+baseurl: /mkshkmrgpt.github.io
 
 # A short description of the page used for the meta description tag.
 description:           >
