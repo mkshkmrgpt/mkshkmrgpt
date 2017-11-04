@@ -1,7 +1,7 @@
 # Config
 # ========================================================================================
 
-title:                 Hydejack
+title:                 Mukesh kumar Gupta
 
 # Language of your content in 2-letter code, eg: en, de.
 # You may also provide a location, eg: en-us, de_AT.
@@ -17,14 +17,13 @@ baseurl:               /hydejack
 
 # A short description of the page used for the meta description tag.
 description:           >
-  A Jekyll theme with JavaScript powers. "Best Theme by a Mile".
+  Software developer "Best Theme by a Mile".
   Combines the best of static sites and modern web apps.
-  Open `_config.yml` to edit this text.
+  Open 
 
 # A shorter description for the sidebar.
 tagline:               >
-  A Jekyll theme with JavaScript powers.
-  Open `_config.yml` to edit this text.
+  Software Developer
 
 # A list of keywords for your blog, will be used as fallback
 # for pages that don't have `keywords` in their front matter.
