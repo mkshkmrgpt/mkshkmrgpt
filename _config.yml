@@ -1,7 +1,7 @@
 # Config
 # ========================================================================================
 
-title:                 Hydejack
+title:                 Mukesh kumar Gupta
 
 # Language of your content in 2-letter code, eg: en, de.
 # You may also provide a location, eg: en-us, de_AT.
@@ -23,8 +23,7 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  A Jekyll theme with JavaScript powers.
-  Open `_config.yml` to edit this text.
+  Software developer
 
 # A list of keywords for your blog, will be used as fallback
 # for pages that don't have `keywords` in their front matter.
@@ -196,11 +195,11 @@ plugins:
 #   admins:              <id>
 
 # Used on index and about sites
-# social:
-#   name:                <firstname> <lastname>
-#   links:
-#     - https://twitter.com/<username>
-#     - https://github.com/<username>
+social:
+   name:                Mukesh kumar Gupta
+   links:
+     - https://twitter.com/mkshkmrgpt
+     - https://github.com/mkshkmrgpt
 
 
 # Other Plugins
