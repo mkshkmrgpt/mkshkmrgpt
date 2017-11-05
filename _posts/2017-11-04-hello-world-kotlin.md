@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Hello world in Kotlin...
 description: >
   This is my first post.
