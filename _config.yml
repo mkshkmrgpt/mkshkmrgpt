@@ -70,7 +70,7 @@ accent_color:          '#4fb1ba'
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
-# disqus:                <disqus_shortname>
+ disqus:               mkshkmrgpt
 
 # Setting a tinyletter username will enable the newsletter subscription box.
 # tinyletter:            <tinyletter_username>
